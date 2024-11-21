@@ -1,0 +1,10 @@
+awscli
+
+requests
+
+flask
+
+selenium
+
+#possible to take with a certain version of the package, like flask== 3.4.5
+#run installation with pip install -r requirements.txt
